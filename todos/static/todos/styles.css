@@ -1,0 +1,17 @@
+body {
+     background-color: #FAF8F1;
+}
+
+.card {
+    background-color: #FFDDD2;
+}
+
+.card-header-shadow-sm{
+    background-color: #FFB9B9;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
