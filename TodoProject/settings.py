@@ -79,7 +79,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "TodoDB",
         "USER": "postgres",
-        "PASSWORD": "980415",
+        "PASSWORD": "password",
         "HOST": "localhost"
     }
 }
