@@ -1,1 +1,1 @@
-#  Build a Todo List App with Django
+#  Build A Todo List App With Django
